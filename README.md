@@ -27,6 +27,8 @@ kirmada_agriAi/
 
 ---
 
+
+
 ## 🏗️ Module Overview
 
 ### 1. 🤖 ADK AgriAI (`adk_agriAi/`)
@@ -43,7 +45,8 @@ kirmada_agriAi/
 **Agents**:
 - **Crop Planning Agent**: Soil analysis and crop recommendations
 - **Plant Health Agent**: Disease diagnosis and treatment
-- **Campaign Management Agent**: Contract farming marketplace
+- **Cam<img width="1320" height="1684" alt="diagram-export-27-07-2025-11_48_28" src="https://github.com/user-attachments/assets/4ff9c761-c57c-4ffa-97de-1f6bde82b02e" />
+paign Management Agent**: Contract farming marketplace
 - **Government Schemes Agent**: Subsidies and financial assistance
 - **NPK Management Agent**: Fertilizer recommendations
 
